@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="ex02/ex02.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="a3c7a26d-989e-4090-b60e-78f3f3f24740">
+    <Build Project="false" />
+  </Project>
+  <Project Path="project02/project02.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="630fd590-e7e9-4263-a3e2-ed864e1bea1c">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Project03/Project03.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="3e891d9c-4842-4248-b8b4-cc2fec0600b5">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Project04A/Project04A.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="3c8c9d3f-e22a-4ef3-8a08-b222b1c9c322">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Project04B/Project04B.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="3d175d47-4e57-42fc-8190-3c77395164d3">
+    <Build Project="false" />
+  </Project>
+</Solution>

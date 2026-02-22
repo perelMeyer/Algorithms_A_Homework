@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D175D47-4E57-42FC-8190-3C77395164D3}|Project04B\\Project04B.pyproj|C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\Project04B\\Project04B.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D175D47-4E57-42FC-8190-3C77395164D3}|Project04B\\Project04B.pyproj|solutionrelative:Project04B\\Project04B.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E891D9C-4842-4248-B8B4-CC2FEC0600B5}|Project03\\Project03.pyproj|C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\Project03\\Project03.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E891D9C-4842-4248-B8B4-CC2FEC0600B5}|Project03\\Project03.pyproj|solutionrelative:Project03\\Project03.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630FD590-E7E9-4263-A3E2-ED864E1BEA1C}|project02\\project02.pyproj|C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\project02\\project02.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{630FD590-E7E9-4263-A3E2-ED864E1BEA1C}|project02\\project02.pyproj|solutionrelative:project02\\project02.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C7A26D-989E-4090-B60E-78F3F3F24740}|ex02\\ex02.pyproj|C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\ex02\\ex02.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A3C7A26D-989E-4090-B60E-78F3F3F24740}|ex02\\ex02.pyproj|solutionrelative:ex02\\ex02.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project04B.py",
+              "DocumentMoniker": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\Project04B\\Project04B.py",
+              "RelativeDocumentMoniker": "Project04B\\Project04B.py",
+              "ToolTip": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\Project04B\\Project04B.py",
+              "RelativeToolTip": "Project04B\\Project04B.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-12T13:35:47.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project03.py",
+              "DocumentMoniker": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\Project03\\Project03.py",
+              "RelativeDocumentMoniker": "Project03\\Project03.py",
+              "ToolTip": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\Project03\\Project03.py",
+              "RelativeToolTip": "Project03\\Project03.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-12T13:01:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "project02.py",
+              "DocumentMoniker": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\project02\\project02.py",
+              "RelativeDocumentMoniker": "project02\\project02.py",
+              "ToolTip": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\project02\\project02.py",
+              "RelativeToolTip": "project02\\project02.py",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-29T14:45:06.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex02.py",
+              "DocumentMoniker": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\ex02\\ex02.py",
+              "RelativeDocumentMoniker": "ex02\\ex02.py",
+              "ToolTip": "C:\\Users\\perel\\OneDrive\\Documents\\\u05DE\u05DB\u05DC\u05DC\u05EA \u05D1\u05D9\u05EA \u05D5\u05D2\u05DF\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05D9\u05EA\u05DE\u05D9\u05DD \u05DE\u05EA\u05E7\u05D3\u05DE\u05D9\u05DD \u05D0\\\u05EA\u05E8\u05D2\u05D9\u05DC 2\\ex02\\ex02\\ex02.py",
+              "RelativeToolTip": "ex02\\ex02.py",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-16T10:53:48.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
